@@ -40,7 +40,4 @@ function deleteTodo() {
         console.log("Todo has been deleted!");
 
 }
-// elseif(input === "new") {
-    // var newTodo = prompt("Enter new todo!")
-// }
-// }, 500);
+
