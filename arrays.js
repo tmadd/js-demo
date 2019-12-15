@@ -1,6 +1,6 @@
 // window.setTimeout(function() {
      // put all of your JS code from the lecture here
-var todos = ["Buy something"];
+var todos = [];
 
 var input = prompt("What would you like to do?");
 
